@@ -1,6 +1,6 @@
 # wrangler.toml (已填入ID的最终版)
 
-name = "my-map-backend"
+name = "my-map-backend-cfwork"
 main = "src/index.ts"
 compatibility_date = "2024-05-01"
 
